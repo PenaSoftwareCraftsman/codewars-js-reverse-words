@@ -29,4 +29,11 @@ describe('reverseWords', () => {
 
         expect(reverseWords(str)).toBe(strExpected);
     });
+
+    it('Should return a string "ewq cba" when "qwe abc" is passed', () => {
+        let str = "qwe abc";
+        let strExpected = "ewq cba";
+
+        expect(reverseWords(str)).toBe(strExpected);
+    });
 });
