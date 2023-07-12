@@ -21,4 +21,5 @@ TODO:
 
 - Domain Search ✅
 - Testing
-    - Should return a empty string when a empty string is passed 
+    - Should return a empty string when a empty string is passed ✅
+    - Should return a string "a" when "a" is passed 🚧
