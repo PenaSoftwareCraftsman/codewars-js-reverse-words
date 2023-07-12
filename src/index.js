@@ -1,6 +1,11 @@
 const reverseWords = (str) => {
 
-    const strReversed = str;
+    const strReversed = 
+        str
+        .split("")
+        .reverse()
+        .toString()
+        .replace(",", "");
 
     return strReversed;
 };
