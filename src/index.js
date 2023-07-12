@@ -5,7 +5,7 @@ const reverseWords = (str) => {
         .split("")
         .reverse()
         .toString()
-        .replace(",", "");
+        .replaceAll(",", "");
 
     return strReversed;
 };
