@@ -1,3 +1,5 @@
+const { reverseWords } = require('./../src/index')
+
 describe('reverseWords', () => {
     it('Should return a empty string when a empty string is passed', () => {
         let str = "";
