@@ -7,7 +7,14 @@ const reverseWords = (str) => {
         .toString()
         .replaceAll(",", "");
 
-    return strReversed;
+    const strSentenceReversed = 
+        strReversed
+        .split(" ")
+        .reverse()
+        .toString()
+        .replaceAll(",", " ");
+
+    return strSentenceReversed;
 };
 
 module.exports = {
