@@ -6,9 +6,17 @@ Examples
 "This is an example!" ==> "sihT si na !elpmaxe"
 "double  spaces"      ==> "elbuod  secaps"
 
+# Domains
+
+Input = string
+outut = the first string reversed
+
+
 **Label**  
 ✅ done 🚧 WIP ❌ ERROR
 
 TODO:
 
 # Pomodoro 1 🍅:
+
+- Domain Search ✅
