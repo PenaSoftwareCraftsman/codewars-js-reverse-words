@@ -20,3 +20,5 @@ TODO:
 # Pomodoro 1 🍅:
 
 - Domain Search ✅
+- Testing
+    - Should return a empty string when a empty string is passed 
