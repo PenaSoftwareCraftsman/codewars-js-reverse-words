@@ -1,5 +1,6 @@
-const reverseWords = () => {
-    const strReversed = "";
+const reverseWords = (str) => {
+
+    const strReversed = str;
 
     return strReversed;
 };
