@@ -23,4 +23,5 @@ TODO:
 - Testing
     - Should return a empty string when a empty string is passed ✅
     - Should return a string "a" when "a" is passed ✅
-    - Should return a string "ab" when "ba" is passed ✅
+    - Should return a string "ba" when "ab" is passed ✅
+    - Should return a ""

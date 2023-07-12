@@ -16,7 +16,7 @@ describe('reverseWords', () => {
         expect(reverseWords(str)).toBe(strExpected);
     });
 
-    it('Should return a string "ab" when "ba" is passed', () => {
+    it('Should return a string "ba" when "ab" is passed', () => {
         let str = "ab";
         let strExpected = "ba";
 
