@@ -1,0 +1,26 @@
+{
+  "name": "codewars-js-reverse-words",
+  "version": "1.0.0",
+  "description": "Reverses each word in the string. All spaces in the string should be retained",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^29.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenaSoftwareCraftsman/codewars-js-reverse-words.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PenaSoftwareCraftsman/codewars-js-reverse-words/issues"
+  },
+  "homepage": "https://github.com/PenaSoftwareCraftsman/codewars-js-reverse-words#readme"
+}
